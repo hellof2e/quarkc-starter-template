@@ -3,6 +3,8 @@
   <h4>Build web application with Quarkc x Gluang</h4>
 </div>
 
+## Features
+
 - [x] Vite 打包/构建
 - [x] 全局状态管理 gluang
 - [x] 支持路由
