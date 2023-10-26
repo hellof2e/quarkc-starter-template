@@ -1,0 +1,21 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  // 配置 Tab 空格数
+  "editor.tabSize": 2,
+  // 保存自动格式化代码
+  "editor.formatOnSave": true,
+  "eslint.options": {
+    "configFile": "./.eslintrc.cjs",
+    "rules": {
+      "no-restricted-syntax": "off",
+      "guard-for-in": "off"
+    }
+  },
+  "eslint.validate": [
+    "javascript",
+    "html",
+    "typescript",
+  ]
+}
