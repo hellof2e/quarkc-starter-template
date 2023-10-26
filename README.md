@@ -11,6 +11,8 @@
 - [x] 支持Less/Scss
 - [x] 支持SEO
 - [x] 打包产物体积极小，性能高
+- [x] 同时支持TypeScript/JavaScript
+- [x] 支持 Eslint/Tslint，代码保存自动格式化等
 
 ## Develop & Installation
 
@@ -30,3 +32,12 @@ npm run build
 适合对性能有极致要求的 Web 开发者～
 
 无框架，没有Vue、没有React，只要原生！！
+
+## Reference
+
+- [Quarkc](https://github.com/hellof2e/quarkc)
+- [全局状态管理工具 Gluang](https://github.com/hellof2e/gluang)
+- [Vite](https://vitejs.dev/)
+
+## License
+[MIT](https://github.com/hellof2e/quarkc-starter-template/blob/main/LICENSE)
