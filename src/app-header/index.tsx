@@ -12,7 +12,7 @@ import { store } from '../store';
 class MyComponent extends connectStore(QuarkElement) {
 
   handleSwitch = () => {
-    store.author = store.author === 'Sun Tzu' ? 'Guess whot?' : 'Sun Tzu';
+    store.author = store.author === 'Sun Tzu' ? 'Guess who?' : 'Sun Tzu';
   }
 
   render() {
