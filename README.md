@@ -1,7 +1,6 @@
 <div align="center">
-
-<h1>用 Quarkc 构建高性能前端页面模版</h1>
-<h4>Build web application with Quarkc x Gluang</h4>
+  <h1>Quarkc 前端开发模版</h1>
+  <h4>Build web application with Quarkc x Gluang</h4>
 </div>
 
 - [x] Vite 打包/构建
@@ -9,7 +8,7 @@
 - [x] 支持路由
 - [x] 支持Less/Scss
 - [x] 支持SEO
-- [x] 打包产物体积极小
+- [x] 打包产物体积极小，性能高
 
 
 ## Usage
