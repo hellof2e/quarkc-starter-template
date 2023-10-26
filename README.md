@@ -10,7 +10,6 @@
 - [x] 支持SEO
 - [x] 打包产物体积极小，性能高
 
-
 ## Usage
 
 体验地址：https://hellof2e.github.io/quarkc-starter-template/
@@ -29,3 +28,8 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## 适合谁？
+
+适合对性能有极致要求的 Web 开发者～
+无框架，没有Vue、没有React，只要原生！！
