@@ -12,9 +12,13 @@
 
 ## Develop & Installation
 
-开发，构建和运行。
-
 ```bash
 npm install
 npm run dev
+```
+
+## Build
+
+```bash
+npm run build
 ```
