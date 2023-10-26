@@ -10,12 +10,6 @@
 - [x] 支持SEO
 - [x] 打包产物体积极小，性能高
 
-## Usage
-
-体验地址：https://hellof2e.github.io/quarkc-starter-template/
-
-项目地址： https://github.com/hellof2e/quarkc-starter-template
-
 ## Develop & Installation
 
 ```bash
