@@ -1,5 +1,5 @@
 {
-  "name": "piano",
+  "name": "quarkc-starter-template",
   "version": "0.0.1",
   "type": "module",
   "scripts": {
@@ -8,10 +8,6 @@
     "build": "vite build --config vite.config.build.ts",
     "prepublishOnly": "npm run build"
   },
-  "keywords": [
-    "quarkc",
-    "web components"
-  ],
   "dependencies": {
     "gluang": "^0.0.1",
     "quarkc": "^1.0.40"
