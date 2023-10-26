@@ -6,9 +6,9 @@
 
 ## Usage
 
-体验地址：https://xsf0105.github.io/piano/
+体验地址：https://hellof2e.github.io/quarkc-starter-template/
 
-项目地址： https://github.com/xsf0105/piano
+项目地址： https://github.com/hellof2e/quarkc-starter-template
 
 ## Develop & Installation
 
