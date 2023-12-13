@@ -3,7 +3,7 @@ import style from "./index.less?inline"
 import suntzu from "./suntzu.jpeg"
 
 // 链接全局store
-import { connectStore } from 'gluang';
+import { connectStore } from '../gluang';
 // 使用全家状态/方法
 import { store } from '../store';
 

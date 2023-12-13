@@ -1,4 +1,4 @@
-import { createGluang } from 'gluang';
+import { createGluang } from './gluang';
 
 class MyState extends createGluang {
   [x: string]: any;
