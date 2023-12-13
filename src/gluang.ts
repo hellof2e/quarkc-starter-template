@@ -15,7 +15,7 @@ export const connectStore = <T extends new (...args: any[]) => Object>(superclas
 
   class InnerClass extends superclass {
     _observers: [state: State, observer: unknown][];
-    // requestUpdate: () => void;
+    requestUpdate: () => void;
 
     constructor(...args: any[]) {
       super();
