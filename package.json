@@ -9,7 +9,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "gluang": "^0.0.2",
+    "gluang": "^0.0.3",
     "quarkc": "^1.0.40"
   },
   "devDependencies": {
