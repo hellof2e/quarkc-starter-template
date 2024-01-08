@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Quarkc 前端开发模版</h1>
-  <h4>Build web application with Quarkc x Gluang</h4>
+  <h4>You Dont Need React / Vue！</h4>
 </div>
 
 ## Features
